@@ -2,4 +2,4 @@
 
 > An awesome project.
 
-[一个普通的扫雷小游戏](./mine/mine.html)
+🔺<a href="mine/mine.html" target="_blank"> 一个普通的扫雷小游戏 </a>
